@@ -1,0 +1,6 @@
+= Pearls of functional programming in Haskell
+
+My attempt to solve the problems / copy the answers in the book.
+
+See https://github.com/derekmcloughlin/pearls for complete and correct answers.
+
